@@ -1,6 +1,6 @@
 /** @format **/
 
-export default async function Docs({
+export default function Docs({
   params,
 }: {
   params: { slug?: string[] };
